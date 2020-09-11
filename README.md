@@ -6,4 +6,4 @@ Here are the recent projects I made for learning purposes. Each project is speci
 
 # 2. [Visualization using Plotly express in Python (PYTHON)](https://enlk.github.io/Plotly-visualizations/Airbnb%20Shanghai.html)
 
-# 3. Statistical analysis in R (R)
+# 3. Descriptive statistics and factor analysis (R)

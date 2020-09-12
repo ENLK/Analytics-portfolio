@@ -4,6 +4,6 @@ Here are the recent projects I made for learning purposes. Each project is speci
 
 # 1. [Using SQLite in Jupyter (SQL / PYTHON)](https://nbviewer.jupyter.org/github/KemisterTse/SQLite-in-Jupyter-Notebook/blob/master/SQL%20Chinook%20db.ipynb)
 
-# 2. [Visualization using Plotly express in Python (PYTHON)](https://enlk.github.io/Plotly-visualizations/Airbnb%20Shanghai.html)
+# 2. [Visualization using Plotly express in Python (PYTHON)](https://nbviewer.jupyter.org/github/ENLK/Plotly-visualizations/blob/master/Airbnb%20Shanghai.ipynb)
 
 # 3. Statistics and factor analysis (R)

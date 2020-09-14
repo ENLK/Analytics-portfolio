@@ -6,4 +6,4 @@ Here are the recent projects I made for learning purposes. Each project is speci
 
 # 2. [Visualization using Plotly express in Python (PYTHON)](https://nbviewer.jupyter.org/github/ENLK/Plotly-visualizations/blob/master/Airbnb%20Shanghai.ipynb)
 
-# 3. [Descriptive and Inferential statistics operations (R)](file:///C:/Users/ke117/Desktop/git/Statistical%20analysis.nb.html)
+# 3. [Descriptive and Inferential statistics operations (R)](https://htmlpreview.github.io/?https://github.com/ENLK/Data-analysis-in-R/blob/master/Statistical%20analysis.nb.html)
